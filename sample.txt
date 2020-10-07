@@ -1,0 +1,1 @@
+This is just a sample run of connecting github by using git in atom.
